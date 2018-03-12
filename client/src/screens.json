@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "hellowsmartux60",
-  "screens": []
+  "screens": [
+    {
+      "id": "logindarkblue",
+      "name": "Login-DarkBlue",
+      "sourceScreenId": "Login_LoginDarkBlue",
+      "sourceAppId": "universaltemplates"
+    }
+  ]
 }
